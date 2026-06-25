@@ -28,7 +28,7 @@
 ## Archivos del repositorio
 
 * auditoria_seguridad.sh — Script principal de auditoría
-* TP_Auditoria_Seguridad_Linux.pdf — Informe completo del trabajo
+* TPI - Informe.pdf — Informe completo del trabajo
 
 ## Links a video y repositorio GitHub
 
